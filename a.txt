@@ -1,5 +1,6 @@
 a.txt mast develop commit
-sssssssssssssssssbbbaaa
+sssssssssssssssssbbbaaa 
+commit master and develop
 
 develop branch
 
